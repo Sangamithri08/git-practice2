@@ -1,5 +1,5 @@
 interface calci{
-	public static getsum(int n1,int n2){
+	public getsum(int n1,int n2);
 
-}
+
 }
